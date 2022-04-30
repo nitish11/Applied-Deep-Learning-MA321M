@@ -4,24 +4,24 @@
 
 ## Course Content:
 ● Session 1 :
-o Evolution of AI
-o Introduction to Deep Learning
-o Industrial Use-cases
+* Evolution of AI
+* Introduction to Deep Learning
+* Industrial Use-cases
 
 ● Session 2:
-o Introduction to Computer Vision and Natural Language Processing
-o Applications of CV and NLP
-o Demos
+* Introduction to Computer Vision and Natural Language Processing
+* Applications of CV and NLP
+* Demos
 
 ● Session 3:
-o Demo: Scene Understanding tool
-o Exploration of required tools and open-source code
-o Building an AI model in 10 lines of code
+* Demo: Scene Understanding tool
+* Exploration of required tools and open-source code
+* Building an AI model in 10 lines of code
 
 ● Session 4:
-o Different Roles in Industries
-o Building required skillset
-o Industry-university co-research discussion
+* Different Roles in Industries
+* Building required skillset
+* Industry-university co-research discussion
 
 
 ## Instructor's Brief Biodata:
